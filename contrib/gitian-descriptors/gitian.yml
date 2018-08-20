@@ -20,7 +20,7 @@ packages:
 - "libpng12-dev"
 reference_datetime: "2011-01-30 00:00:00"
 remotes:
-- "url": "https://github.com/aubiz-project/aubiz.git"
+- "url": "https://github.com/deependrasingh93/aubiz.git"
   "dir": "aubiz"
 files:
 - "miniupnpc-1.9.20140401.tar.gz"
